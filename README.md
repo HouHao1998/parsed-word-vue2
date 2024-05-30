@@ -1,4 +1,4 @@
-# my-vue2-project
+# parsed-word-vue2
 
 ## Project setup
 ```

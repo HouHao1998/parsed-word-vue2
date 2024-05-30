@@ -1,0 +1,17 @@
+/* 覆盖 Vuetify 容器的最大宽度限制 */
+@media (min-width: 1264px) {
+    .v-container {
+        max-width: none !important;
+    }
+}
+
+@media (min-width: 1264px) {
+.container {
+    max-width: none !important;
+}
+}
+.docx-wrapper {
+    background: none !important;
+    padding: 0;
+
+}
